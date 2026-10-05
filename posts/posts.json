@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "2026-10-05-hello-world",
+    "title": "Why I'm starting to write",
+    "date": "2026-10-05",
+    "type": "article",
+    "summary": "Notes on moving from papers and product docs to writing for myself."
+  },
+  {
+    "slug": "2026-10-05-first-story",
+    "title": "The Last Frame",
+    "date": "2026-10-04",
+    "type": "story",
+    "summary": "A short story about a camera that kept recording after everyone left."
+  }
+]

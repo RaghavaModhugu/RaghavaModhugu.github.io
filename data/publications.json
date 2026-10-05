@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Ego4D: Around the World in 3,600 Hours of Egocentric Video",
+    "authors": "M Liu, X Liu, M Martin, T Nagarajan, I Radosavovic, SK Ramakrishnan, …, R Modhugu, …, K Grauman, et al.",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "venue_short": "T-PAMI",
+    "year": 2025,
+    "links": [
+      { "label": "Project", "url": "https://ego4d-data.org/" },
+      { "label": "Scholar", "url": "https://scholar.google.com/scholar?q=Ego4D%3A+Around+the+World+in+3%2C600+Hours+of+Egocentric+Video" }
+    ]
+  },
+  {
+    "title": "Holistic Driver Monitoring: A Multi-Task Approach for In-Cabin Driver Attention Evaluation through Multi-Camera Data",
+    "authors": "P Palo, S Nayak, D N R K Modhugu, K Gupta, S Uttarkabat",
+    "venue": "IEEE Intelligent Vehicles Symposium (IV)",
+    "venue_short": "IV",
+    "year": 2024,
+    "links": [
+      { "label": "Scholar", "url": "https://scholar.google.com/scholar?q=Holistic+driver+monitoring%3A+A+multi-task+approach+for+in-cabin+driver+attention+evaluation" }
+    ]
+  },
+  {
+    "title": "DriveSafe: Pose-Based Driver Monitoring in Software Defined Vehicle Using STGCN",
+    "authors": "P Palo, S Nayak, D N R K Modhugu, S Uttarkabat, K Gupta",
+    "venue": "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "venue_short": "ICASSP",
+    "year": 2024,
+    "links": [
+      { "label": "Scholar", "url": "https://scholar.google.com/scholar?q=Drivesafe%3A+Pose-based+driver+monitoring+in+software+defined+vehicle+using+stgcn" }
+    ]
+  },
+  {
+    "title": "Ego4D: Around the World in 3,000 Hours of Egocentric Video",
+    "authors": "K Grauman, A Westbury, E Byrne, Z Chavis, A Furnari, R Girdhar, …, R Modhugu, …, et al.",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "venue_short": "CVPR",
+    "year": 2022,
+    "links": [
+      { "label": "arXiv", "url": "https://arxiv.org/abs/2110.07058" },
+      { "label": "Project", "url": "https://ego4d-data.org/" }
+    ]
+  },
+  {
+    "title": "Looking Farther in Parametric Scene Parsing with Ground and Aerial Imagery",
+    "authors": "R Modhugu, H R Sethuram, M Chandraker, C V Jawahar",
+    "venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "venue_short": "ICRA",
+    "year": 2021,
+    "links": [
+      { "label": "Scholar", "url": "https://scholar.google.com/scholar?q=Looking+Farther+in+Parametric+Scene+Parsing+with+Ground+and+Aerial+Imagery" }
+    ]
+  },
+  {
+    "title": "Evaluating Computer Vision Techniques for Urban Mobility on Large-Scale, Unconstrained Roads",
+    "authors": "H Rithish, R Modhugu, R Reddy, R Saluja, C V Jawahar",
+    "venue": "arXiv preprint",
+    "venue_short": "arXiv",
+    "year": 2021,
+    "links": [
+      { "label": "Scholar", "url": "https://scholar.google.com/scholar?q=Evaluating+computer+vision+techniques+for+urban+mobility+on+large-scale%2C+unconstrained+roads" }
+    ]
+  },
+  {
+    "title": "Dear Commissioner, Please Fix These: A Scalable System for Inspecting Road Infrastructure",
+    "authors": "R Modhugu, R Reddy, C V Jawahar",
+    "venue": "National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG)",
+    "venue_short": "NCVPRIPG",
+    "year": 2019,
+    "links": [
+      { "label": "Scholar", "url": "https://scholar.google.com/scholar?q=Dear+Commissioner%2C+Please+Fix+These%3A+A+Scalable+System+for+Inspecting+Road+Infrastructure" }
+    ]
+  }
+]
